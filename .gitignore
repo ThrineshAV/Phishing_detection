@@ -25,9 +25,8 @@ staticfiles/
 venv/
 env/
 .venv/
-backend/venv/
-backend/env/
-backend/.venv/
+backend/back/
+
 
 # Django cache
 *.pot
