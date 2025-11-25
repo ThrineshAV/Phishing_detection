@@ -1,0 +1,93 @@
+# ---------------------------
+# PYTHON / DJANGO
+# ---------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Django stuff
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+# Environment variables
+.env
+*.env
+# Virtual environments
+venv/
+env/
+.venv/
+backend/venv/
+backend/env/
+backend/.venv/
+
+# Django cache
+*.pot
+*.pyc
+
+# ---------------------------
+# MACHINE LEARNING
+# ---------------------------
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Large datasets
+ml/data/*.csv
+ml/data/*.json
+ml/data/*.txt
+
+# ---------------------------
+# REACT / NODE
+# ---------------------------
+
+node_modules/
+build/
+dist/
+*.lock
+
+# React environment
+frontend/.env
+frontend/.env.local
+
+# ---------------------------
+# OS / EDITOR JUNK
+# ---------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# ---------------------------
+# MISC
+# ---------------------------
+
+# Logs
+*.log
+
+# Compiled
+*.out
+*.exe
+
