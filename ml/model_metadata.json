@@ -1,0 +1,7 @@
+{
+  "phishing_threshold": 0.8,
+  "validation_metrics": {
+    "safe_recall": 0.9977110157367668,
+    "phishing_recall": 0.9985595966870724
+  }
+}
